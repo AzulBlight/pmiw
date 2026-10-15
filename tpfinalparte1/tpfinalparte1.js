@@ -1,5 +1,7 @@
 //Mamani Pamela y Azul Ojeda 
 //Comision 3
+// https://youtu.be/oYziLAh5mCw (video de Azul)
+//
 // tpfinalparte1
 
 let musica;          // Archivo de audio principal del juego
